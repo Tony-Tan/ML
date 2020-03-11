@@ -1,0 +1,26 @@
+All the algorithms in the project are from 'Pattern Recognition and machine learning' by Bishop
+
+They are explained in my blog:
+
+1. [Assessing the Accuracy of the Model](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/Assessing-the-Accuracy-of-the-Model/)
+2. [Are the Parameters Calculated from Least Squared Error Correct?](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/Assessing-the-Accuracy-of-the-Coefficient-Estimates/)
+3. [Assessing the Accuracy of the Model](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/Assessing-the-Accuracy-of-the-Model/)
+4. [Estimating Multiple Linear Regress Coefficients](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/Multiple-Linear-regression-Estimating-the-Regress-Coefficients/)
+5. [Least Squares Estimation](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Linear-Regression-Least-Squares-Estimation/)
+6. [Maximum Likelihood Estimation](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Linear-Regression-Maximum-Likelihood-Estimation/)
+7. [Polynomial Regression and Features-Extension of Linear Regression](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Polynomial-Regression-Least-Squares-Estimation/)
+8. [From Linear Regression to Linear Classification](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Linear-Classification-From-Regreesion-To-Classification/)
+9. [An Introduction to Discriminant Functions](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Linear-Classification-An-Introduction-to-Discriminant-Functions/)
+10. [Least Squares](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Linear-Classification-Least-Squares/)
+11. [Fisher Linear Discriminant(LDA)](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Linear-Classification-Fisher-Linear-Discriminant/)
+12. [An Introduction to Probabilistic Generative Models for Linear Classification](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Linear-Classification-An-Introduction-to-Probabilistic-Generative-Models-for-Classification/)
+13. [Logistic Regression](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Linear-Classification-Logistic-Regression/)
+14. [An Introduction to Mixture Models](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Mixture-Models-An-Introduction-to-Mixture-Models/)
+15. [K-means Clustering](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Mixture-Models-K-means-Clustering/)
+16. [Mixtures of Gaussians](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Mixture-Models-Mixtures-of-Gaussians/)
+17. [Maximum Likelihood of Gaussian Mixtures](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Mixture-Models-Maximum-Likelihood-of-Gaussian-Mixtures/)
+18. [EM Algorithm](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Mixture-Models-EM-Algorithm-for-Gaussian-Mixtures/)
+19. [An Introduction to Combining Models](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Combining-Models-An-Introduction-to-Combining-Models/)
+20. [Bayesian Model Averaging(BMA) and Combining Models](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Combining-Models-Bayesian-Model-Averaging-BMA/)
+21. [Committees](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Combining-Models-Committees/)
+22. [Boosting and AdaBoost](https://brainbomb.org/Artificial-Intelligence/Machine-Learning/ML-Combining-Models-Boosting-and-Adaboost/)
